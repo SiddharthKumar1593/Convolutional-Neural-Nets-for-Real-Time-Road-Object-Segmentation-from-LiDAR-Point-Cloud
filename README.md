@@ -7,7 +7,6 @@ This repository contains a tensorflow implementation of SqueezeSeg, a convolutio
 </p>
 
 
-Please refer to our video for a high level introduction of this work: https://youtu.be/Xyn5Zd3lm6s.
 ## License
 **SqueezeSeg** is released under the BSD license (See [LICENSE](https://github.com/SiddharthKumar1593/Convolutional-Neural-Nets-for-Real-Time-Road-Object-Segmentation-from-LiDAR-Point-Cloud/blob/main/LICENSEE) for details). The **dataset** used for training, evaluation, and demostration of SqueezeSeg is modified from [KITTI](http://www.cvlibs.net/datasets/kitti/) raw dataset. For your convenience, we provide links to download the converted dataset, which is distrubited under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
